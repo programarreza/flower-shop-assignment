@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Lato', sans-serif;
+}
+/* banner section */
+.banner {
+	display: flex;
+	background: rgba(229, 84, 115, 0.10);
+	padding: 0 150px;
+}
+.banner-title {
+	font-size: 50px;
+	font-weight: 800;
+	color: #272727;
+	margin-top: 150px;
+}
+.banner-description {
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 30px;
+	color: rgba(39, 39, 39, 0.60);
+	margin: 32px 0;
+}
+.btn-primary {
+	padding: 15px 30px;
+	border-radius: 8px;
+	background: #E55473;
+	color: #fff;
+	font-size: 16px;
+	font-weight: 700;
+	border: none;
+}
+.banner-image img {
+	width: 500px;
+	padding-top: 27px;
+}
