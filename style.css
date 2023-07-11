@@ -139,7 +139,8 @@ section {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	margin-top: 50px;
+	margin-top: 50px ;
+	margin: 62px 0;
 }
 .profile-box {
 	width: 250px;
@@ -148,4 +149,27 @@ section {
 .profile-box a > img {
 	width: 100%;
 	border-radius: 5px;
+}
+
+/* latest deals */
+.latest-deals {
+	background-image: url('flower Asset/Rectangle\ 9.png');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 100px 0;
+	border-radius: 5px;
+}
+.contact {
+	text-align: center;
+	margin-top: 30px;
+}
+.contact input {
+	padding: 15px 300px 15px  20px;
+	margin-right: 16px;
+	font-size: 16px;
+	border: none;
+	outline-color: #E55473;
+	border-radius: 5px;
+	color: rgba(39, 39, 39, 0.60);
 }
