@@ -85,3 +85,20 @@ section {
 	color: #272727;
 	font-weight: 800;
 }
+
+/* our services */
+.our-services {
+	display: flex;
+	justify-content: space-between;
+	background: rgba(39, 39, 39, 0.05);
+	border-radius: 8px;
+	text-align: center;
+	padding: 80px 100px;
+}
+
+.service-box h4 {
+	font-size: 16px;
+	font-weight: 400;
+	color: rgba(39, 39, 39, 0.80);
+	margin-top: 20px;
+}
