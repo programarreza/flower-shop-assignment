@@ -133,3 +133,19 @@ section {
 .discount-info span {
 	color: #E55473;
 }
+
+/* social network section */
+.social-profile {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-top: 50px;
+}
+.profile-box {
+	width: 250px;
+
+}
+.profile-box a > img {
+	width: 100%;
+	border-radius: 5px;
+}
