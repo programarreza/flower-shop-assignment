@@ -210,3 +210,27 @@ section {
 	border-radius: 5px;
 	color: rgba(39, 39, 39, 0.60);
 }
+
+/* footer section */
+footer {
+	text-align: center;
+	color: #fff;
+	background-color: #111010;
+	padding: 100px ;
+}
+.footer-content h1{
+	font-size: 40px;
+	font-weight: 800;
+}
+.footer-content h1 span {
+	color: #E55473;
+}
+.footer-content p {
+	margin: 25px 0 30px 0;
+	color: rgba(255, 255, 255, 0.90);
+}
+.footer-bottom p {
+	color: rgba(255, 255, 255, 0.40);
+	font-size: 16px;
+}
+/* The End */
